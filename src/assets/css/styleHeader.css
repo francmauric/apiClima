@@ -1,0 +1,13 @@
+header{
+    background: #00387cda;
+    padding: 0;
+    width: 100%;
+    background-image: url("../images/fondoazul2.jpg");
+}
+.tituloHeader{
+    padding: 30px ;
+    font-size: 45px;
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+}
+ 
